@@ -17,7 +17,7 @@ W3C标准
 基本页面（第一个页面）
 <img src="https://github.com/SaltyFishy/html/blob/main/%E9%A1%B5%E9%9D%A2.jpg" alt="">
 html的注释语法: 
-<img src="" alt="">
+<img src="https://github.com/SaltyFishy/html/blob/main/%E6%B3%A8%E9%87%8A.jpg" alt="">
 关于第一个页面的解释：
 <ol>
 <li>DOCTYPE html</li>
