@@ -28,4 +28,4 @@ html的注释语法:
 <li>字体样式标签</li>
 <li>注释和特殊符号</li>
 </ol>
-<a href="http://localhost:63342/2121.7.5%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%91%A8%EF%BC%89html/2121.7.1%EF%BC%88%E7%AC%AC%E4%B8%89%E5%91%A8%EF%BC%89html/html/%E6%A0%87%E7%AD%BE.html?_ijt=a3oi54kq3bp9t8g0gkim8a20s2" title="标签">
+<a href="http://localhost:63342/2121.7.5%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%91%A8%EF%BC%89html/2121.7.1%EF%BC%88%E7%AC%AC%E4%B8%89%E5%91%A8%EF%BC%89html/html/%E6%A0%87%E7%AD%BE.html?_ijt=a3oi54kq3bp9t8g0gkim8a20s2" title="基本标签">基本标签</a>
