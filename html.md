@@ -15,7 +15,7 @@ W3C标准
 基本结构
 <img src="https://github.com/SaltyFishy/html/blob/main/%E5%9F%BA%E6%9C%AC%E6%A1%86%E6%9E%B6.jpg" alt="">
 基本页面（第一个页面）
-<img src="https://github.com/SaltyFishy/html/blob/main/%E9%A1%B5%E9%9D%A2.jpg" alt="">
+<img src="" alt="">
 html的注释语法: 
 <img src="https://github.com/SaltyFishy/html/blob/main/%E6%B3%A8%E9%87%8A.jpg" alt="">
 关于第一个页面的解释：
