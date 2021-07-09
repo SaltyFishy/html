@@ -28,6 +28,6 @@ html的注释语法:
 <li>字体样式标签</li>
 <li>注释和特殊符号</li>
 </ol>
-<a href="http://localhost:63342/2121.7.5%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%91%A8%EF%BC%89html/2121.7.1%EF%BC%88%E7%AC%AC%E4%B8%89%E5%91%A8%EF%BC%89html/html/%E6%A0%87%E7%AD%BE.html?_ijt=i3ds5u53l91k6hp97ni4klv3b0" >基本标签</a>
+<a href="http://localhost:63342/2121.7.5%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%91%A8%EF%BC%89html/2121.7.1%EF%BC%88%E7%AC%AC%E4%B8%89%E5%91%A8%EF%BC%89html/html/%E6%A0%87%E7%AD%BE.html?_ijt=nc5asikkgrmsgqtgu4b7e3ksoh" >基本标签</a>
 <h2>图片标签</h2>
-<a href="http://localhost:63342/2121.7.5%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%91%A8%EF%BC%89html/2121.7.1%EF%BC%88%E7%AC%AC%E4%B8%89%E5%91%A8%EF%BC%89html/html/%E5%9B%BE%E7%89%87%E6%A0%87%E7%AD%BE.html?_ijt=uesptf12scg9rd89bfsbi76e0i" >图片标签</a>
+<a href="http://localhost:63342/2121.7.5%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%91%A8%EF%BC%89html/2121.7.1%EF%BC%88%E7%AC%AC%E4%B8%89%E5%91%A8%EF%BC%89html/html/%E5%9B%BE%E7%89%87%E6%A0%87%E7%AD%BE.html?_ijt=nc5asikkgrmsgqtgu4b7e3ksoh" >图片标签</a>
