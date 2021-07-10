@@ -62,3 +62,9 @@ html的注释语法:
 
 <h2>表单</h2>
 <a href="http://localhost:63342/2121.7.5%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%91%A8%EF%BC%89html/2121.7.1%EF%BC%88%E7%AC%AC%E4%B8%89%E5%91%A8%EF%BC%89html/html/%E8%A1%A8%E5%8D%95.html?_ijt=eldjkl92rsbr0ciav5qmd3q2dh" title="表单">表单</a>
+
+<h2>表单的应用</h2>
+<a href="http://localhost:63342/2121.7.5%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%91%A8%EF%BC%89html/2121.7.1%EF%BC%88%E7%AC%AC%E4%B8%89%E5%91%A8%EF%BC%89html/html/%E8%A1%A8%E5%8D%95%E7%9A%84%E5%BA%94%E7%94%A8.html?_ijt=44dsft1npc2900d2686l8hibq7" title="表单的的应用">表单的应用</a>
+
+<h2>表单的初级验证</h2>
+<a href="http://localhost:63342/2121.7.5%EF%BC%88%E7%AC%AC%E5%9B%9B%E5%91%A8%EF%BC%89html/2121.7.1%EF%BC%88%E7%AC%AC%E4%B8%89%E5%91%A8%EF%BC%89html/html/%E8%A1%A8%E5%8D%95%E7%9A%84%E5%88%9D%E7%BA%A7%E9%AA%8C%E8%AF%81.html?_ijt=44dsft1npc2900d2686l8hibq7" title="表单的初级验证">表单的初级验证</a>
